@@ -15,7 +15,6 @@ A clean, fast, and fully functional **Language Translation Tool** built with pur
 - [Usage Guide](#usage-guide)
 - [Supported Languages](#supported-languages)
 - [Tech Stack](#tech-stack)
-- [License](#license)
 
 
 ## About the Project
@@ -290,9 +289,5 @@ Example response:
 }
 ```
 
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 > **Tip:** Press `Ctrl + Enter` anywhere in the text box to translate without reaching for the mouse.
